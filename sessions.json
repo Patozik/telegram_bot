@@ -1,0 +1,22 @@
+{
+  "sessions": [
+    {
+      "id": "1633333268:1633333268",
+      "data": {
+        "customQuantity": {
+          "type": "country",
+          "country": "USA"
+        }
+      }
+    },
+    {
+      "id": "5505399865:5505399865",
+      "data": {
+        "customQuantity": {
+          "type": "country",
+          "country": "USA"
+        }
+      }
+    }
+  ]
+}
